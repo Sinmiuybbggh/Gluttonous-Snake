@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1580643920 source:d:\program files (x86)\c++\gluttonous snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdbool.h>
+
