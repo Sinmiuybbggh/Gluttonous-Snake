@@ -5,5 +5,5 @@
 
 参考：https://blog.csdn.net/zs120197/article/details/88420297
 
-开发环境使用code:blocks。如果code：blocks显示中文乱码可以参考这一篇：
+开发环境使用code:blocks。如果code:blocks显示中文乱码可以参考这一篇：
 https://blog.csdn.net/zs120197/article/details/88420297
